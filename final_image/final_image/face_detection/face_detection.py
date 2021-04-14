@@ -1,7 +1,3 @@
-#Participants
-#ARAVIND REGONDA
-#SWAPANDEEP SANDHU
-#JAINIL DESAI
 
 import os
 import cv2
