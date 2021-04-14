@@ -1,7 +1,4 @@
-#PARTICPANTS
-#ARAVIND REGONDA
-#SWAPANDEEP SANDHU
-#JAINIL DESAI
+
 
 # import packages
 from collections import deque
